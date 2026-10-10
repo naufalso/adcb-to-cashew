@@ -1,0 +1,10 @@
+Date,Amount,Category,Title,Note,Account
+2026-09-25 12:00:00.000,5000.00,Income,Salary,SALARY | Ref: 72,Debit Account
+2026-09-20 12:00:00.000,-1200.00,Transfer,Credit Card Payment (Card 1234),CREDIT CARD PAYMNT XXXXXXXXXXXX1234 | Ref: 39622633614,Debit Account
+2026-09-18 12:00:00.000,-150.00,Groceries,Lulu Hypermarket (WTC),LULU HYPERMARKET- WTC ABU DHABI ARE,Credit Card
+2026-09-17 12:00:00.000,1200.00,Transfer,Credit Card Payment,"PAYMENT RECEIVED, THANK YOU",Credit Card
+2026-09-16 12:00:00.000,-15.00,Dining,House of Tea,HOUSEOFTEA ABU DHABI ARE,Credit Card
+2026-09-15 12:00:00.000,-80.00,Transit,Adnoc AL Zafraana 973,ADNOC AL ZAFRAANA 973 ABUDHABI ARE,Credit Card
+2026-09-15 17:37:00.000,-200.00,others,ATM Withdrawal (City Mall),ATM WDL 17:37 City Mall 000000056 | Ref: 051220126266A5HB,Debit Account
+2026-09-14 12:00:00.000,-35.00,Shopping,Daiso Japan Value Store L,DAISO JAPAN VALUE STORE L DUBAI ARE,Credit Card
+2026-09-10 12:00:00.000,-45.00,Groceries,Fresh Mart,PUR 10/09 FRESH MART Abu Dhabi 6953 | Ref: 980915,Debit Account

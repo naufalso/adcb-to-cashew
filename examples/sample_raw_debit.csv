@@ -1,0 +1,11 @@
+"Account Number: 12345678901234 AED" ,
+"Statement Period: From 01/09/2026 To 30/09/2026" ,
+"Account Name(s): JOHN DOE" ,
+"Account Status: ACTIVE" ,
+"Opening Balance: 5,000.00 AED" ,
+"Closing Balance: 8,555.00 AED" ,
+Posting Date,Value Date,Reference No,Description,Debit Amount,Credit Amount,Balance
+"25/09/2026","25/09/2026","72","SALARY",0,"5000","10000.00"
+"20/09/2026","20/09/2026","39622633614","CREDIT CARD PAYMNT XXXXXXXXXXXX1234","1200.00",0,"8800.00"
+"15/09/2026","15/09/2026","051220126266A5HB","ATM WDL 17:37 City Mall 000000056","200",0,"8600.00"
+"10/09/2026","10/09/2026","980915","PUR 10/09 FRESH MART Abu Dhabi 6953","45.00",0,"8555.00"
